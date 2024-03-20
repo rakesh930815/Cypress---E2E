@@ -1,0 +1,39 @@
+{
+    "login":
+    {
+        "userID":"rakesh2@aeologic.com",
+        "password":"Password@22"
+    },
+
+    "bookingData":
+    {
+        "borigin":"DEL",
+        "bdestination":"BL",
+        "bcommodity":"GEN",
+        "bshipper":"IND",
+        "bconsignee":"IND",
+        "bcustomer":"IND",
+        "bpieces":"10",
+        "bweight":"10",
+        "fltstatus": "Flight",
+        "broutedest":"BL",
+        "brdate":"14-03-2024",
+        "brfltcode":"SG8536"
+    },
+
+    "export":
+    {
+        "efltID":"8536",
+        "efltDate":"14-03-2024"
+    },
+
+    "Arrival":
+    {
+        "aorigin":"BOM",
+        "afltID":"8536",
+        "afltDate":"14-03-2024"
+    }
+
+
+   
+}

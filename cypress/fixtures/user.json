@@ -1,0 +1,23 @@
+{
+    "login":
+    {
+        "userID":"rakesh2@aeologic.com",
+        "password":"Password@22"
+    },
+
+    "bookingData":
+    {
+        "Login ID": "test12",
+        "User Name": "test",
+        "Email ID": "Mobile No",
+        "Enter Password": "test@123",
+        "Role": "Admin",
+        "Base Station": "DEL",
+        "Station Access": "DEL",
+        "Agent Code": "ASADELDO",
+        "Select Status": "Active",
+        "Select Agent Type": "Domestic",
+        "Remark": "Test" 
+    }
+    
+}

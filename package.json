@@ -1,0 +1,27 @@
+{
+  "name": "cypress---e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakesh930815/Cypress---E2E.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakesh930815/Cypress---E2E/issues"
+  },
+  "homepage": "https://github.com/rakesh930815/Cypress---E2E#readme",
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "allure-commandline": "^2.27.0",
+    "cypress": "^13.6.4",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "cypress-xpath": "^2.0.1",
+    "mocha-allure-reporter": "^1.4.0"
+  }
+}
